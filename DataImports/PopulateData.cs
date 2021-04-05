@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace ShippingDiscount.DataImports
 {
+    //Populate lists with ShippingPrices, Avaible Sizes/Carriers
     public class PopulateData
     {
         public List<ShippingPrice> SetShippingPrice()

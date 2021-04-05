@@ -6,6 +6,7 @@ namespace ShippingDiscount.Actions.PriceActions
 {
     public class AssignPrice
     {
+        //Assign Shipping price to transaction
         public ShippingPrice AssignShippingPrice(string CarrierCode, string SizeCode)
         {
             try

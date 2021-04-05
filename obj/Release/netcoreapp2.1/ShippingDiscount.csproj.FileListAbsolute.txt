@@ -1,0 +1,11 @@
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\bin\Release\netcoreapp2.1\ShippingDiscount.deps.json
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\bin\Release\netcoreapp2.1\ShippingDiscount.runtimeconfig.json
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\bin\Release\netcoreapp2.1\ShippingDiscount.runtimeconfig.dev.json
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\bin\Release\netcoreapp2.1\ShippingDiscount.dll
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\bin\Release\netcoreapp2.1\ShippingDiscount.pdb
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\obj\Release\netcoreapp2.1\ShippingDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\obj\Release\netcoreapp2.1\ShippingDiscount.AssemblyInfoInputs.cache
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\obj\Release\netcoreapp2.1\ShippingDiscount.AssemblyInfo.cs
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\obj\Release\netcoreapp2.1\ShippingDiscount.dll
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\obj\Release\netcoreapp2.1\ShippingDiscount.pdb
+C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\obj\Release\netcoreapp2.1\ShippingDiscount.csprojAssemblyReference.cache

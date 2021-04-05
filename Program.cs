@@ -31,6 +31,7 @@ namespace ShippingDiscount
             {
                 new AutoRun(Assembly.GetExecutingAssembly())
                        .Execute(new string[] { "/test:ShippingDiscount.Tests.ShippingDiscountTest" });
+                Console.ReadKey();
             }
         }
     }

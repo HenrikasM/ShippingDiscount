@@ -8,9 +8,10 @@ namespace ShippingDiscount.DataImports
 {
     public class FileParse
     {
+        //Find file in DataFiles folder by user input name parse to string
         public string ReadFile(string FileName)
         {
-            string textFile = $"{AppDomain.CurrentDomain.BaseDirectory} \\..\\..\\..\\..\\DataImports\\DataFiles\\{FileName}";
+            string textFile = $"{AppDomain.CurrentDomain.BaseDirectory} \\..\\..\\..\\..\\..\\DataImports\\DataFiles\\{FileName}";
             try
             {
                 string text = File.ReadAllText(textFile);
@@ -22,6 +23,7 @@ namespace ShippingDiscount.DataImports
                 return null;
             }
         }
+        //Parse data for transaction creation
         public List<Transaction> ParseDataToTransactions(string Text)
         {
             if (Text != null)

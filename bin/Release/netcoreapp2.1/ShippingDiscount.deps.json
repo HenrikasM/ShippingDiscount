@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "c7f0e8906fae819aa0872f9fc988b1b232db9a55"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ShippingDiscount/1.0.0": {
+        "dependencies": {
+          "NUnitLite": "3.13.1"
+        },
+        "runtime": {
+          "ShippingDiscount.dll": {}
+        }
+      },
+      "NUnit/3.13.1": {
+        "runtime": {
+          "lib/netstandard2.0/nunit.framework.dll": {
+            "assemblyVersion": "3.13.1.0",
+            "fileVersion": "3.13.1.0"
+          }
+        }
+      },
+      "NUnitLite/3.13.1": {
+        "dependencies": {
+          "NUnit": "3.13.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/nunitlite.dll": {
+            "assemblyVersion": "3.13.1.0",
+            "fileVersion": "3.13.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShippingDiscount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NUnit/3.13.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vWBvrSelmTYwqHWvO3dA63z7cOpaFR/3nJ9MMVLBkWeaWa7oiglPPm5g1h96B4i2XXqjFexxhR5MyMjmIJYPfg==",
+      "path": "nunit/3.13.1",
+      "hashPath": "nunit.3.13.1.nupkg.sha512"
+    },
+    "NUnitLite/3.13.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GorGmCXYYo4EkpDuwdLzhOBjSSyDbr6U1vZGFHJF3WywkVyPsK7zDu1jQJ68zkBaDNXCEhfUwzsFX1O6TlDXHg==",
+      "path": "nunitlite/3.13.1",
+      "hashPath": "nunitlite.3.13.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="ShippingDiscount.dll" fullname="C:/Users/Henrikas/Desktop/Programavimas/ShippingDiscount/ShippingDiscount/bin/Debug/netcoreapp2.1/publish/ShippingDiscount.dll" testcasecount="5" result="Passed" start-time="2021-04-05T12:21:59.6838473Z" end-time="2021-04-05T12:21:59.7148653Z" duration="0.030975" total="5" passed="5" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="35" random-seed="1294179391">
+  <command-line><![CDATA[C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\bin\Debug\netcoreapp2.1\publish\ShippingDiscount.dll]]></command-line>
+  <filter>
+    <test>ShippingDiscount.Tests.ShippingDiscountTest</test>
+  </filter>
+  <test-suite type="Assembly" id="1006" name="ShippingDiscount.dll" fullname="C:/Users/Henrikas/Desktop/Programavimas/ShippingDiscount/ShippingDiscount/bin/Debug/netcoreapp2.1/publish/ShippingDiscount.dll" runstate="Runnable" testcasecount="5" result="Passed" start-time="2021-04-05T12:21:59.6838473Z" end-time="2021-04-05T12:21:59.7148653Z" duration="0.030975" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="35">
+    <environment framework-version="3.13.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows 10.0.19042 " platform="Win32NT" cwd="C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\bin\Debug\netcoreapp2.1\publish" machine-name="DESKTOP-0OPLGV1" user="Henrikas" user-domain="DESKTOP-0OPLGV1" culture="en-US" uiculture="en-US" os-architecture="x86" />
+    <settings>
+      <setting name="LOAD" value="System.Collections.Generic.List`1[System.String]" />
+      <setting name="WorkDirectory" value="C:\Users\Henrikas\Desktop\Programavimas\ShippingDiscount\ShippingDiscount\bin\Debug\netcoreapp2.1\publish" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14352" />
+      <property name="_APPDOMAIN" value="ShippingDiscount" />
+    </properties>
+    <test-suite type="TestSuite" id="1007" name="ShippingDiscount" fullname="ShippingDiscount" runstate="Runnable" testcasecount="5" result="Passed" start-time="2021-04-05T12:21:59.6888594Z" end-time="2021-04-05T12:21:59.7148603Z" duration="0.026001" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="35">
+      <test-suite type="TestSuite" id="1008" name="Tests" fullname="ShippingDiscount.Tests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2021-04-05T12:21:59.6891448Z" end-time="2021-04-05T12:21:59.7148487Z" duration="0.025704" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="35">
+        <test-suite type="TestFixture" id="1000" name="ShippingDiscountTest" fullname="ShippingDiscount.Tests.ShippingDiscountTest" classname="ShippingDiscount.Tests.ShippingDiscountTest" runstate="Runnable" testcasecount="5" result="Passed" start-time="2021-04-05T12:21:59.6903116Z" end-time="2021-04-05T12:21:59.7145321Z" duration="0.024221" total="5" passed="5" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="35">
+          <test-case id="1001" name="TestCase1" fullname="ShippingDiscount.Tests.ShippingDiscountTest.TestCase1" methodname="TestCase1" classname="ShippingDiscount.Tests.ShippingDiscountTest" runstate="Runnable" seed="1163706489" result="Passed" start-time="2021-04-05T12:21:59.6922001Z" end-time="2021-04-05T12:21:59.7045802Z" duration="0.012484" asserts="20" />
+          <test-case id="1002" name="TestCase2" fullname="ShippingDiscount.Tests.ShippingDiscountTest.TestCase2" methodname="TestCase2" classname="ShippingDiscount.Tests.ShippingDiscountTest" runstate="Runnable" seed="1679491148" result="Passed" start-time="2021-04-05T12:21:59.7064163Z" end-time="2021-04-05T12:21:59.7095114Z" duration="0.003095" asserts="4" />
+          <test-case id="1003" name="TestCase4" fullname="ShippingDiscount.Tests.ShippingDiscountTest.TestCase4" methodname="TestCase4" classname="ShippingDiscount.Tests.ShippingDiscountTest" runstate="Runnable" seed="1410222643" result="Passed" start-time="2021-04-05T12:21:59.7095785Z" end-time="2021-04-05T12:21:59.7108902Z" duration="0.001312" asserts="3" />
+          <test-case id="1004" name="TestCase5" fullname="ShippingDiscount.Tests.ShippingDiscountTest.TestCase5" methodname="TestCase5" classname="ShippingDiscount.Tests.ShippingDiscountTest" runstate="Runnable" seed="421482745" result="Passed" start-time="2021-04-05T12:21:59.7109107Z" end-time="2021-04-05T12:21:59.7120855Z" duration="0.001175" asserts="4" />
+          <test-case id="1005" name="TestCase6" fullname="ShippingDiscount.Tests.ShippingDiscountTest.TestCase6" methodname="TestCase6" classname="ShippingDiscount.Tests.ShippingDiscountTest" runstate="Runnable" seed="1534188849" result="Passed" start-time="2021-04-05T12:21:59.7121008Z" end-time="2021-04-05T12:21:59.7135534Z" duration="0.001453" asserts="4" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
